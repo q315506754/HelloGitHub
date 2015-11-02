@@ -9,26 +9,7 @@
 
 
     <repositories>
-        <repository>
-            <id>bingdian1</id>
-            <name>bingdian1</name>
-            <url>http://172.16.0.154:8081/nexus/content/repositories/sonaptype/</url>
-        </repository>
-        <repository>
-            <id>bingdian2</id>
-            <name>bingdian2</name>
-            <url>http://172.16.0.154:8081/nexus/content/groups/public/</url>
-        </repository>
-        <repository>
-            <id>central</id>
-            <name>maven official repository</name>
-            <url>https://oss.sonatype.org/content/groups/public/</url>
-        </repository>
-        <repository>
-            <id>official</id>
-            <name>official repository</name>
-            <url>http://repo1.maven.org/maven2/</url>
-        </repository>
+        
          <repository>
             <id>OSChina Central</id>
             <name>OSChina Central</name>
