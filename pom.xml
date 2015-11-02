@@ -5,7 +5,6 @@
     <artifactId>DubboService</artifactId>
     <version>1.0</version>
     <name>DubboService</name>
-    <packaging>war</packaging>
 
 
     <repositories>
